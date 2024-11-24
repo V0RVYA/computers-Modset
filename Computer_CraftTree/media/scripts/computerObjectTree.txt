@@ -1,0 +1,8 @@
+module Base
+{
+	item Keyboard
+	{
+		DisplayCategory		= Electronics 
+	}
+}
+
