@@ -1,8 +1,11 @@
-module Base
-{
+module computer
+{	imports{Base}
 	item Keyboard
 	{
-		DisplayCategory		= Electronics 
+		DisplayCategory		= Electronics,
+		Weight			= 0.5,
+		Type			= Normal,
+		DisplayName		= Keyboard
+		Icon			= WineEmpty
 	}
 }
-
